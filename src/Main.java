@@ -18,7 +18,6 @@ public class Main {
         dietitians = new DietitianServices();
         meals = new MealServices();
         dietPlans = new DietPlanServices();
-        Dietitian log = null;
         run();
 
     }
