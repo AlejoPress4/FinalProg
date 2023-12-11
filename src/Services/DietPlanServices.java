@@ -17,7 +17,6 @@ public class DietPlanServices {
     }
 
     public void edit(DietPlan plan){
-        
     }
 
     public void Delete(String dietPlanid) {
