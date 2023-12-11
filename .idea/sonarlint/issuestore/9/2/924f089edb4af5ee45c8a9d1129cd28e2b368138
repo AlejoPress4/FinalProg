@@ -1,2 +1,9 @@
 
-E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(„®§98¼»è¥Å1
+G	java:S106"+Replace this use of System.out by a logger.(ß‰ëÇ8±ùé¥Å1
+R
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·8½»è¥Å1
+>
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8Þª€¦Å1
+?
+java:S1128""Remove this unused import 'Model'.(Ð†‡Û8Öžõ¥Å1

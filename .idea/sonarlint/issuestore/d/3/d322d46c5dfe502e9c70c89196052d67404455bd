@@ -1,0 +1,42 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "%s%s%s" 7 times.(ÖÛØúùÿÿÿÿ8¿ªµ¦Å1
+x
+java:S1192:"VDefine a constant instead of duplicating this literal "%sRango invÃ¡lido. %s" 3 times.(õÔ¾½üÿÿÿÿ8¿ªµ¦Å1
+v
+java:S1192%"TDefine a constant instead of duplicating this literal ">> Valor errÃ³neo. " 3 times.(íæäÂÿÿÿÿÿ8¿ªµ¦Å1
+?
+java:S1643È"Use a StringBuilder instead.(˜ã¹¶úÿÿÿÿ8Àªµ¦Å1
+p
+java:S1104"NMake sc a static final constant or non-public and provide accessors if needed.(³Ô»óûÿÿÿÿ8Àªµ¦Å1
+J
+java:S1444"(Make this "public static sc" field final(³Ô»óûÿÿÿÿ8Áªµ¦Å1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øú•—8Âªµ¦Å1
+†
+java:S4165²"cRemove this useless assignment; "value" already holds the assigned value along all execution paths.(ùÏ«šşÿÿÿÿ8• ¼¦Å1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(«å²­8Çªµ¦Å1
+G	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Êªµ¦Å1
+G	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Ìªµ¦Å1
+L	java:S106%"+Replace this use of System.out by a logger.(íæäÂÿÿÿÿÿ8Ìªµ¦Å1
+D
+java:S1125*"'Remove the unnecessary boolean literal.(å÷¶Ã8Ìªµ¦Å1
+L	java:S106:"+Replace this use of System.out by a logger.(õÔ¾½üÿÿÿÿ8Îªµ¦Å1
+G	java:S106H"+Replace this use of System.out by a logger.(ÌË§„8Ïªµ¦Å1
+c
+java:S3457M"AFormat specifiers should be used instead of string concatenation.(ĞöİÔşÿÿÿÿ8® ¼¦Å1
+L	java:S106M"+Replace this use of System.out by a logger.(ĞöİÔşÿÿÿÿ8Ïªµ¦Å1
+G	java:S106N"+Replace this use of System.out by a logger.(ÌË§„8Ğªµ¦Å1
+G	java:S106Z"+Replace this use of System.out by a logger.(ÌË§„8Ñªµ¦Å1
+L	java:S106c"+Replace this use of System.out by a logger.(íæäÂÿÿÿÿÿ8Ñªµ¦Å1
+D
+java:S1125g"'Remove the unnecessary boolean literal.(å÷¶Ã8Òªµ¦Å1
+L	java:S106w"+Replace this use of System.out by a logger.(õÔ¾½üÿÿÿÿ8Óªµ¦Å1
+H	java:S106"+Replace this use of System.out by a logger.(ÌË§„8Ôªµ¦Å1
+M	java:S106Š"+Replace this use of System.out by a logger.(íæäÂÿÿÿÿÿ8Ôªµ¦Å1
+E
+java:S1125"'Remove the unnecessary boolean literal.(å÷¶Ã8Õªµ¦Å1
+M	java:S106"+Replace this use of System.out by a logger.(õÔ¾½üÿÿÿÿ8Öªµ¦Å1
+H	java:S106¨"+Replace this use of System.out by a logger.(ÌË§„8×ªµ¦Å1
+H	java:S106¸"+Replace this use of System.out by a logger.(ğÖ8Ùªµ¦Å1
+M	java:S106Ğ"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ûªµ¦Å1

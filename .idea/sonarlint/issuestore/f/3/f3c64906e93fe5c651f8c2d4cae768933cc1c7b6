@@ -1,0 +1,7 @@
+
+b	java:S112]"FDefine and throw a dedicated exception instead of using a generic one.(´ôóÆ8»–‰¥Å1
+„
+java:S1488@"gImmediately return this expression instead of assigning it to the temporary variable "generatedString".(¸á‚î8¾–‰¥Å1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øú•—8¿–‰¥Å1
+:
+java:S2119>"Save and re-use this "Random".(¼ÝÅf8——‰¥Å1
